@@ -1,0 +1,111 @@
+{
+  "captured_on": "2026-11-04",
+  "scope": "Selected real modules and unmodified backend references; not the complete product.",
+  "files": [
+    {
+      "source": "shared/management-local-time.ts",
+      "published": "src/management-local-time.ts",
+      "original_sha256": "f73adb08dfa3a87c13d725c2c6c784ecc4a789575ac4ea3321291e1ffad1fb03",
+      "published_sha256": "5106d46e69277cc87e4e38dc2af5f16f0721488311ece84930cdd34aa9ee2d62",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "shared/management-reservation-time.ts",
+      "published": "src/management-reservation-time.ts",
+      "original_sha256": "05c52d46ed5e2469f50d43cc5da18c9155c59a2616b923d333932295cdcfe77f",
+      "published_sha256": "8b7c83899579b187c09912a46b530541c8fba5e380135ba930197500432dc667",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "shared/management-schedule-availability.ts",
+      "published": "src/management-schedule-availability.ts",
+      "original_sha256": "d9466c814009cca666af3b9f70de0f3c7db4922fd4d0829c26503d1f335f38c0",
+      "published_sha256": "5611b06a0e4db95ea2fcdeb13735ceb129b7cc652918f2dc12f739d8e1eb0c1e",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "shared/management-reservation-quote.ts",
+      "published": "src/management-reservation-quote.ts",
+      "original_sha256": "fd4b07abfed3d6c3ff398b5bdc6085b2eb9577c077686858fd953e94b42db5de",
+      "published_sha256": "3550f6d91f5edc6ea2d50f586183dd787c7887833481c7a1e1eb913356b6115b",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "shared/management-access-policy.ts",
+      "published": "src/management-access-policy.ts",
+      "original_sha256": "0c4d7267bf362744baa9ba14f4d42c44eecf60aa00c87aa033a657a700fe315e",
+      "published_sha256": "e2f60ce6477d46e5d795c9966841f78c2a4979076085bc632031a8c6baa42e0e",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "shared/management-reservation-charge-origin.ts",
+      "published": "src/management-reservation-charge-origin.ts",
+      "original_sha256": "f3a2a2bdf46102beaf4ca43ae57eb2bc524c796589e743786337932abb810f89",
+      "published_sha256": "fc0906869cd7cda8466e7896fd913cb128015e2c86f4fe886112bbfa9f1ab411",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "website/lib/management-reservation-charge.ts",
+      "published": "src/management-reservation-charge.ts",
+      "original_sha256": "06e9c081c10ecbf879e063973a5360f4e59292de87f1fbf135896838e37285ae",
+      "published_sha256": "b7b79fc37eee707c6b8bd4be9c0816d4a5df0d7b59810dd53f1a0e00d6dc1670",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "website/lib/management-arena-navigation.ts",
+      "published": "src/management-arena-navigation.ts",
+      "original_sha256": "3b9ea1ad9d82e0e0fabfc5cef4ebb2c83b7c005d91a566dff4998971791711b0",
+      "published_sha256": "2ab4b290c589ba1be0573b8e375654d3f75d26565229af011d2534517bf24dbd",
+      "adaptation": "Import paths only, flattened into src with .ts extensions. Logic unchanged."
+    },
+    {
+      "source": "server/modules/operations/idempotent-command.ts",
+      "published": "reference/idempotent-command.ts",
+      "original_sha256": "9ebd292897466e063fd5c1410de063ea7739ca6446576131f17fbdf9a2ac9ea4",
+      "published_sha256": "9ebd292897466e063fd5c1410de063ea7739ca6446576131f17fbdf9a2ac9ea4",
+      "adaptation": "Unmodified reference. Requires the complete backend, aliases, dependencies and database; not executed by this package."
+    },
+    {
+      "source": "server/modules/scheduling/schedule-store.ts",
+      "published": "reference/schedule-store.ts",
+      "original_sha256": "10735f03ba79777d6dc9d7ed6d306f217eddc5b917ddc71afce10853f3664787",
+      "published_sha256": "10735f03ba79777d6dc9d7ed6d306f217eddc5b917ddc71afce10853f3664787",
+      "adaptation": "Unmodified reference. Requires the complete backend, aliases, dependencies and database; not executed by this package."
+    },
+    {
+      "source": "server/modules/reservations/reservation-service.ts",
+      "published": "reference/reservation-service.ts",
+      "original_sha256": "e106e52346a630900404776d89de20a430b2053ed930d6405e3f21ac8314b15b",
+      "published_sha256": "e106e52346a630900404776d89de20a430b2053ed930d6405e3f21ac8314b15b",
+      "adaptation": "Unmodified reference. Requires the complete backend, aliases, dependencies and database; not executed by this package."
+    },
+    {
+      "source": "server/modules/clubs/staff-permissions.ts",
+      "published": "reference/staff-permissions.ts",
+      "original_sha256": "65816c2049f240a1d7c2a83b9261b13bb1cdb9d3e00609c8c08b01b6b23e641d",
+      "published_sha256": "65816c2049f240a1d7c2a83b9261b13bb1cdb9d3e00609c8c08b01b6b23e641d",
+      "adaptation": "Unmodified reference. Requires the complete backend, aliases, dependencies and database; not executed by this package."
+    },
+    {
+      "source": "server/modules/clubs/facility-command-recovery.ts",
+      "published": "reference/facility-command-recovery.ts",
+      "original_sha256": "e29bc9e333423a0249a13ee59ea6cb46b3064b61ba2698f618ceb5770d32fff5",
+      "published_sha256": "e29bc9e333423a0249a13ee59ea6cb46b3064b61ba2698f618ceb5770d32fff5",
+      "adaptation": "Unmodified reference. Requires the complete backend, aliases, dependencies and database; not executed by this package."
+    },
+    {
+      "source": "shared/management-reservation-quote.test.ts",
+      "published": "tests/management-reservation-quote.test.ts",
+      "original_sha256": "2cd26ed3fd292dabfe9e51fb3861e78d53bdeb0cd20d6c0c4cafb45baeb462d7",
+      "published_sha256": "8485845e7de8dbcbc40f9c026c44f06c71f33043cf93a631d82584615d84342b",
+      "adaptation": "Existing behavioral tests; import paths only."
+    },
+    {
+      "source": "website/lib/management-reservation-charge.test.ts",
+      "published": "tests/management-reservation-charge.test.ts",
+      "original_sha256": "c736f693b740eca82bdb2d88081d664c83068cd22d75a41cc2d3def01acf81e3",
+      "published_sha256": "d617f48a4d7a38e8abc2dfdca07c1db4be38b34f711d68dc69405e37785ddf97",
+      "adaptation": "Existing behavioral tests; import paths only."
+    }
+  ]
+}
