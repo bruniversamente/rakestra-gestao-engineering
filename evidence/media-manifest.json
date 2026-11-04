@@ -1,0 +1,262 @@
+[
+  {
+    "id": "overview",
+    "source": "portfolio-workspace\\docs\\portfolio\\behance\\rakestra\\assets\\management.png",
+    "source_sha256": "04cc0cbf8cfd849ebea217654df17a13b2b02c52558aca7b0980183328cf6540",
+    "source_dimensions": [
+      1440,
+      900
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1440,
+      900
+    ],
+    "full_sha256": "56236934ba7778f29d6a04084cb87e463fe755a9814f87b10cfd00e2dd4bfcb2"
+  },
+  {
+    "id": "schedule",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\calendar-block-create-qualified-reservations.png",
+    "source_sha256": "ebb0360bfe203de72bc16e54d831b822f5f4cd96b6c06c9110259937262020c3",
+    "source_dimensions": [
+      1280,
+      2335
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "full_sha256": "4dd4f731c41dd1794dd213a41659aae9a8b9c292b66e6973366e18cbd6d6b6ae"
+  },
+  {
+    "id": "reception",
+    "source": "portfolio-workspace\\docs\\portfolio\\behance\\rakestra\\assets\\reception.png",
+    "source_sha256": "05c476761436a209318446b899951971906410b2e8a84111d1aeb542f6634698",
+    "source_dimensions": [
+      1440,
+      900
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1440,
+      900
+    ],
+    "full_sha256": "4749b5fc98658fc0f343dbc119e30635373be3dc17e0ae758259db3839fbb99e"
+  },
+  {
+    "id": "members",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\members-plan-create-qualified.png",
+    "source_sha256": "4fcaac1e35ec51001a14494ce4f8fa72eede1b4a2147cc48579bf592cc7e047d",
+    "source_dimensions": [
+      1280,
+      1189
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "full_sha256": "82b2fc8a0ce029e1e1a7c5425ee2b013f4e03ad0c6ac175e787b8cf7f2d16308"
+  },
+  {
+    "id": "membership",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\members-link-read-qualified.png",
+    "source_sha256": "80014b4eee77019fa44417ca95b76c07d7b116e21ab5b9b4e89e2e037f62672b",
+    "source_dimensions": [
+      1280,
+      1148
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "full_sha256": "35007d756a850d7b72ce9003ca0871f74e39a40b8a43144f6256457b34d31a09"
+  },
+  {
+    "id": "teaching",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\desktop226-state\\browser-students.png",
+    "source_sha256": "787220dfc68acabf7dccd490cd7aa49a0d663cca29348e071dc01952cbf2e968",
+    "source_dimensions": [
+      1440,
+      1000
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1440,
+      1000
+    ],
+    "full_sha256": "f24f21d5f35175ce748e9299b9bf3dbafbf140e57fcdd524debec61603d7f25d"
+  },
+  {
+    "id": "lesson",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\configuration153-ui-configure-0.png",
+    "source_sha256": "cb2f8e2dda2f6e187177ca33ad7319708ea07131d28d5832fdb170787293642e",
+    "source_dimensions": [
+      1440,
+      1100
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1440,
+      1080
+    ],
+    "full_sha256": "977ff0c9c07f32390bfdd27dffe14718025aa0c1fe481d645ab7bfe2b14c1e2b"
+  },
+  {
+    "id": "competition",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\manual-registration-readonly-staff.png",
+    "source_sha256": "05f2161f4009c4877132841f7f5d6ddc49f0215abae1237ce19145dc71e11f31",
+    "source_dimensions": [
+      1440,
+      1000
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1440,
+      1000
+    ],
+    "full_sha256": "140a2823ff6846b992f0e8db68ec0f7af1aa4a2db38d82e88fbb277b169c6964"
+  },
+  {
+    "id": "ranking",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\ranking-category-final-read.png",
+    "source_sha256": "e8e615848f5b8de781a6a16dde533a34fd0700fa59f9d7c74c17e1ec8005db1e",
+    "source_dimensions": [
+      1280,
+      720
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      720
+    ],
+    "full_sha256": "8bd0185235ddd4031689cea5265e6dc21c2de75449b9804646b0e63210e50187"
+  },
+  {
+    "id": "finance",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\finance183-green.png",
+    "source_sha256": "78bffa0c95085e837b9028290ddac7bf5e8100ac97de30e4f7d5e79179057a1d",
+    "source_dimensions": [
+      1440,
+      1100
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1440,
+      1080
+    ],
+    "full_sha256": "2e4dfbef80912df2a4323d091dfa4e8837f43e459288b37d4b2635fd4131610a"
+  },
+  {
+    "id": "receipt",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\billing-receipt-entry-preflight.png",
+    "source_sha256": "7b02b892810262e8dea71ed38c5d4d4b7a713eaac13b9501f4699a544242b924",
+    "source_dimensions": [
+      1280,
+      2740
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "full_sha256": "94e138eb7619801ae14015ed5df42914b999a7e29f203f77563265b54413cbf7"
+  },
+  {
+    "id": "reports",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\report177-reader-shared-stable.png",
+    "source_sha256": "f5c7c9664a35a9882871cd161d35b2eed2b58f4c12461cb2441b6dc2075e1a34",
+    "source_dimensions": [
+      1440,
+      1100
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1440,
+      1080
+    ],
+    "full_sha256": "1a8cafba99d3ef3714715b428721ce91313f48612801e0ea9091133aee21f615"
+  },
+  {
+    "id": "staff",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\staff-invite-real.png",
+    "source_sha256": "90d8020fe0d315c9a77c321bbb1690e262d296e027e0876ebca722d1cd7b7619",
+    "source_dimensions": [
+      1280,
+      720
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      720
+    ],
+    "full_sha256": "b409fef7d5106ce2fe0dad6b78038ea52438650993249a9895736388a4a0f523"
+  },
+  {
+    "id": "brand",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\brand-shared-green.png",
+    "source_sha256": "2d79402444880136f81c4a4d9ea136326cb1885378dd90d440b0e29dfe5e7288",
+    "source_dimensions": [
+      1280,
+      720
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      720
+    ],
+    "full_sha256": "be98f6bd1ecd71b65ddc01a98d0b0670fc22273a30228b2fd6d678e27c2876d8"
+  },
+  {
+    "id": "communication",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\communications-campaign-lifecycle.png",
+    "source_sha256": "b02a9b555ba9230fbe9e334cfa3d4d2c263919bb225aab895bc5d82be7e5dbc7",
+    "source_dimensions": [
+      1280,
+      868
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      868
+    ],
+    "full_sha256": "41fd08d26dcec814317ca33d405d7cccab73ce61864c6735534571266359c42f"
+  },
+  {
+    "id": "configuration",
+    "source": "E:\\RAKESTRA-TESTS\\matchzone-rn\\output\\gestao-desktop-integration-20261030\\configuration-real-destinations.png",
+    "source_sha256": "9070f0d74bf8a954d3e5a9b13978d70a11d2ff8590eaa6adfd0cdabe4b7e6e7e",
+    "source_dimensions": [
+      1280,
+      1498
+    ],
+    "reading_crop": [
+      0,
+      0,
+      1280,
+      960
+    ],
+    "full_sha256": "dcf209208ac72fb4141303daf329e198741a03e186fe68dc3afb9dd5281e96a8"
+  },
+  {
+    "source": "Existing Gestão UX/UI case",
+    "reuse": "Four public booking captures retain the approved Rakestra phone frame, responsive view and full gallery source. No original case file changed."
+  }
+]

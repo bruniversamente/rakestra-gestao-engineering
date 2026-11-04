@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-04",
+  "node": "v24.14.0",
+  "platform": "Windows",
+  "command": "node --test --test-reporter=tap tests/*.test.ts",
+  "exit_code": 0,
+  "passed": 24,
+  "failed": 0,
+  "coverage": {
+    "schedule_and_time": 8,
+    "route_access_and_navigation": 7,
+    "price_and_charge_contracts": 9
+  },
+  "scope": "Selected real pure modules; in-memory tests, no API, database, financial transaction or native device. Backend reference files are not executed.",
+  "report": "tests.tap"
+}
